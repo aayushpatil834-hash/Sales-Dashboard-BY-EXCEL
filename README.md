@@ -53,4 +53,4 @@ This project is an interactive Sales Dashboard built in Microsoft Excel to analy
 
 ## Author
 
-**Jhumka Por**
+**Aayush Patil**
